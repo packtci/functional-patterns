@@ -1,0 +1,20 @@
+{
+  "name": "functional-patterns",
+  "version": "1.0.0",
+  "description": "A library exploring functional patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/packtci/functional-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/packtci/functional-patterns/issues"
+  },
+  "homepage": "https://github.com/packtci/functional-patterns#readme"
+}
